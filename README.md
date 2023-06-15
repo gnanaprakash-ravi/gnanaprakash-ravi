@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I’m Gnanaprakash R, Master's student in AI from NIT Bhopal
+### Hi there👋, I’m Gnanaprakash R, Master's student in AI from NIT Bhopal
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gnanaprakash_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnanaprakash-ravi/)](https://www.linkedin.com/in/gnanaprakash-ravi/)
 [![Gmail Badge](https://img.shields.io/badge/-gnana1306@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnana1306@gmail.com)](mailto:gnana1306@gmail.com)
