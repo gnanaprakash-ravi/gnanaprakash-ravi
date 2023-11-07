@@ -25,6 +25,11 @@
   ![Pytorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=Pytorch)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
 
+<p aligh="left">
+  <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=Ryota-Kawamura&hide=contribs,prs&theme=midnight-purple" />
+  <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=Ryota-Kawamura&layout=compact&theme=midnight-purple" />
+</p>
+
 <!---
 gnanaprakash-ravi/gnanaprakash-ravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
