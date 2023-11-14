@@ -28,9 +28,9 @@
 ## 🚀 Quick Stats
 
 <p align="left">
-<!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&hide=contribs,prs&theme=midnight-purple" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="Gnanaprakash's Github Stats" />
-  <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" />
+<!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide=contribs,prs&theme=midnight-purple" /> -->
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=midnight-purple" alt="Gnanaprakash's Github Stats" />
+  <img height="200px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" />
 </p>
 
 <!---
