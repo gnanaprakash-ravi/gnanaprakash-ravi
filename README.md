@@ -25,8 +25,11 @@
   ![Pytorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=Pytorch)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
 
-<p aligh="left">
-  <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&hide=contribs,prs&theme=midnight-purple" />
+## 🚀 Quick Stats
+
+<p align="left">
+<!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&hide=contribs,prs&theme=midnight-purple" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=dracula" alt="Gnanaprakash's Github Stats" />
   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" />
 </p>
 
