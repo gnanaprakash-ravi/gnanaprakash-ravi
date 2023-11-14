@@ -1,7 +1,7 @@
 ## Hi there👋, I’m Gnanaprakash R, Master's student from NIT Bhopal specialized in AI
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gnanaprakash_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnanaprakash-ravi/)](https://www.linkedin.com/in/gnanaprakash-ravi/)
-[![Gmail Badge](https://img.shields.io/badge/-gnana1306@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnana1306@gmail.com)](mailto:gnana1306@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnana1306@gmail.com)](mailto:gnana1306@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Gnanaprakash_webpage-B7178C?style=flat-square&logo=Jasmine&logoColor=white&link=https://bio.link/r_gnanaprakash)](https://bio.link/r_gnanaprakash)
 
 - 👀 I’m interested in Natural Language Processing, Computer Vision, Data Science, Machine Learning, and Artificial Intelligence.
