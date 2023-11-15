@@ -1,4 +1,4 @@
-## Hi there👋, I’m Gnanaprakash R, Master's student from NIT Bhopal specialized in AI
+<h1> Hi there👋, I’m Gnanaprakash R <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px">, Master's student from NIT Bhopal specialized in AI </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gnanaprakash_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnanaprakash-ravi/)](https://www.linkedin.com/in/gnanaprakash-ravi/)
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnana1306@gmail.com)](mailto:gnana1306@gmail.com)
@@ -30,7 +30,9 @@
 <p align="left">
 <!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide=contribs,prs&theme=midnight-purple" /> -->
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=midnight-purple" alt="Gnanaprakash's Github Stats" />
-  <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" />
+<!--   <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" /> -->
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=6&hide=matlab&count_private=true&theme=midnight-purple" />
+</p>
 </p>
 
 <!---
