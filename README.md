@@ -47,6 +47,7 @@
 
 </p>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanaprakash-ravi&label=Profile%20views&color=0e75b6&style=flat" alt="gnanaprakash-ravi" /> </p>
 
 <!---
 gnanaprakash-ravi/gnanaprakash-ravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
