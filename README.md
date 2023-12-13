@@ -38,8 +38,18 @@
 </p>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=gnanaprakash-ravi&color=blue)
+<!--   ![](https://komarev.com/ghpvc/?username=gnanaprakash-ravi&color=blue) -->
 </div>
+
+<h3 align="left">🔥 My Stats</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanaprakash-ravi&theme=dracula" alt="gnanaprakash-ravi" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaprakash-ravi&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="gnanaprakash-ravi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="gnanaprakash-ravi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&theme=radical&disable_animations=true" alt="gnanaprakash-ravi" /></p>
+
 
 <!---
 gnanaprakash-ravi/gnanaprakash-ravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
