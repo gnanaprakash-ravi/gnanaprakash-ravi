@@ -2,7 +2,7 @@
 
 <img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gnanaprakash_R-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnanaprakash-ravi/)](https://www.linkedin.com/in/gnanaprakash-ravi/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnanaprakash-ravi/)](https://www.linkedin.com/in/gnanaprakash-ravi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnana1306@gmail.com)](mailto:gnana1306@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-B7178C?style=flat-square&logo=Jasmine&logoColor=white&link=https://bio.link/r_gnanaprakash)](https://bio.link/r_gnanaprakash)
 
