@@ -1,10 +1,16 @@
 ## Hi there👋, I’m Gnanaprakash R, Master's graduate from NIT Bhopal specialized in AI.
 
 <img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-
+<!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gnanaprakash-ravi/)](https://www.linkedin.com/in/gnanaprakash-ravi/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gnana1306@gmail.com)](mailto:gnana1306@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-B7178C?style=flat-square&logo=Jasmine&logoColor=white&link=https://bio.link/r_gnanaprakash)](https://bio.link/r_gnanaprakash)
+-->
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/gnanaprakash-ravi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gnanaprakash R" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/gnana1306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Gnanaprakash R" height="30" width="40" /></a>
+</p>
 
 - 👀 I’m interested in Natural Language Processing, Computer Vision, Data Science, Machine Learning, and Artificial Intelligence.
 
