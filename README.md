@@ -34,22 +34,14 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=midnight-purple" alt="Gnanaprakash's Github Stats" />
   <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" />
 <!--   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinand5&langs_count=6&hide=matlab&count_private=true&theme=midnight-purple" /> -->
-</p>
-</p>
-
-<div align="center">
-<!--   ![](https://komarev.com/ghpvc/?username=gnanaprakash-ravi&color=blue) -->
-</div>
 
 <h3 align="left">🔥 My Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanaprakash-ravi&theme=dracula" alt="gnanaprakash-ravi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanaprakash-ravi&theme=midnight-purple" alt="gnanaprakash-ravi" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaprakash-ravi&show_icons=true&locale=en&layout=compact&theme=radical&disable_animations=true" alt="gnanaprakash-ravi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&theme=midnight-purple&disable_animations=true" alt="gnanaprakash-ravi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&locale=en&theme=radical&disable_animations=true" alt="gnanaprakash-ravi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&theme=radical&disable_animations=true" alt="gnanaprakash-ravi" /></p>
-
+</p>
+</p>
 
 <!---
 gnanaprakash-ravi/gnanaprakash-ravi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
