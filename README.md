@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  ![Visitor Count](https : //profile-counter.glitch.me/gnanaprakash-ravi/count.svg)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=gnanaprakash-ravi&color=blue)
 </div>
 
 <!---
