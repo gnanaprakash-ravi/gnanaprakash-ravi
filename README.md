@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gnanaprakash-ravi.gnanaprakash-ravi&"  />
+  ![Visitor Count](https : //profile-counter.glitch.me/gnanaprakash-ravi/count.svg)
 </div>
 
 <!---
