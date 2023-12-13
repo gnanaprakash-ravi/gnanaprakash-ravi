@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=gnanaprakash-ravi&color=blue)
+  ![](https://komarev.com/ghpvc/?username=gnanaprakash-ravi&color=blue)
 </div>
 
 <!---
