@@ -1,4 +1,4 @@
-## Hi there👋, I’m Gnanaprakash R, Master's graduate from NIT Bhopal specialized in AI.
+### <samp>&gt; Hi there, I'm <a>Gnanaprakash R</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <!-- 
@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/-Portfolio-B7178C?style=flat-square&logo=Jasmine&logoColor=white&link=https://bio.link/r_gnanaprakash)](https://bio.link/r_gnanaprakash)
 -->
 
-- 👀 I’m interested in Natural Language Processing, Computer Vision, Data Science, Machine Learning, and Artificial Intelligence.
+- 👀 I’m am AI Engineer, interested in LLMs, NLP, Computer Vision and Quantum Machine Learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,12 +36,17 @@
 
 ## 🚀 Quick Stats
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanaprakash-ravi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 <p align="left">
 <!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide=contribs,prs&theme=midnight-purple" /> -->
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=midnight-purple" alt="Gnanaprakash's Github Stats" />
-  <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" />
+<!--   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=midnight-purple" alt="Gnanaprakash's Github Stats" />
+  <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" /> -->
 
-<p><img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&layout=compact&theme=midnight-purple&disable_animations=true" alt="gnanaprakash-ravi" /></p>
+<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&layout=compact&theme=midnight-purple&disable_animations=true" alt="gnanaprakash-ravi" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanaprakash-ravi&theme=dracula" alt="gnanaprakash-ravi" /></a> </p>
 
