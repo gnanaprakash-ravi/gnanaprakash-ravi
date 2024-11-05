@@ -36,18 +36,23 @@
 
 ## 🚀 Quick Stats
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&" alt="gnanaprakash-ravi" /></p>
+
+
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanaprakash-ravi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaprakash-ravi&show_icons=true&locale=en&layout=compact" alt="gnanaprakash-ravi" />
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaprakash-ravi&show_icons=true&locale=en&layout=compact" alt="gnanaprakash-ravi" /></p>
 
 <p align="left">
 <!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide=contribs,prs&theme=midnight-purple" /> -->
 <!--   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&line_height=21&count_private=true&theme=midnight-purple" alt="Gnanaprakash's Github Stats" />
-  <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" /> -->
+<!--   <img height="170px" src="https://github-readme-stats-coral-phi-94.vercel.app/api/top-langs/?username=gnanaprakash-ravi&layout=compact&theme=midnight-purple" /> -->
 
-<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&layout=compact&theme=midnight-purple&disable_animations=true" alt="gnanaprakash-ravi" /></p>
+<p>
+<!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanaprakash-ravi&layout=compact&theme=midnight-purple&disable_animations=true" alt="gnanaprakash-ravi" /> -->
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gnanaprakash-ravi&theme=dracula" alt="gnanaprakash-ravi" /></a> </p>
 
