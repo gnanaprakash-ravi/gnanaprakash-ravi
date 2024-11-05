@@ -38,8 +38,9 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanaprakash-ravi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnanaprakash-ravi&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> -->
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanaprakash-ravi&show_icons=true&locale=en&layout=compact" alt="gnanaprakash-ravi" /></p>
 
 <p align="left">
 <!--   <img height="150px" src="https://github-readme-stats-coral-phi-94.vercel.app/api?username=gnanaprakash-ravi&show_icons=true&hide=contribs,prs&theme=midnight-purple" /> -->
